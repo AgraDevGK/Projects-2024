@@ -1,1 +1,2 @@
-This project is based on HTML,CSS. In this project i have created a animation of a moving car.
+Project1: Car animation using HTML and CSS.
+Project2: Responsive website using HTML , CSS and Javascript.
